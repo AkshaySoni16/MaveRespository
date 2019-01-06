@@ -20,6 +20,12 @@ public class SampleTest {
 		Reporter.log("test passed");
 		
 	}
+	
+	@Test
+	public void doReg()
+	{
+	  System.out.println("user reg");
+	}
 		
 		
 		
